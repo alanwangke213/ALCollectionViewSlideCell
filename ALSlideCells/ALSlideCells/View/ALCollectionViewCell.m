@@ -7,7 +7,7 @@
 //
 
 #import "ALCollectionViewCell.h"
-#define kOutOfRange 60
+#define kOutOfRange 80
 #define kCellHeight 200
 #define kScreenWidth [UIScreen mainScreen].bounds.size.width
 

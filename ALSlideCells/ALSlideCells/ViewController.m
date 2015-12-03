@@ -15,7 +15,7 @@
 #define kHeaderVeiwHeight 50
 #define kSeperator 5
 #define kCellHeight 200
-#define kOutOfRange 60
+#define kOutOfRange 80
 #define kCellCount 8
 
 
